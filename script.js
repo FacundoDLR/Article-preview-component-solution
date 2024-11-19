@@ -1,17 +1,23 @@
-const btnOpen = document.getElementById("btn-open");
+const btnToggle = document.getElementById("btn-open");
 const btnClose = document.getElementById("btn-close");
 const userInfo = document.getElementById("userInfo");
 const userShare = document.getElementById("userShare");
 const userDiv = document.getElementById("userDiv");
 
-btnOpen.addEventListener("click", () => {
-    userShare.style.display = 'flex';
-    userInfo.style.display = 'none';
-    userDiv.classList.add('bg-color');
-});
+function toggleShare() {
+    const isLargeScreen = window.innerWidth > 768;
 
-btnClose.addEventListener("click", () => {
-    userInfo.style.display = 'flex';
-    userShare.style.display = 'none';
-    userDiv.classList.remove('bg-color');
-});
+    if (isLargeScreen) {
+        const isPopupVisible = userPopup.style.display === "flex";
+        userPopup.style.display = isPopupVisible ? "none" : "flex";
+        userDiv.classList.toggle(!isPopupVisible);
+    } else {
+        const isShareVisible = userShare.style.display === "flex";
+        userShare.style.display = isShareVisible ? "none" : "flex";
+        userInfo.style.display = isShareVisible ? "flex" : "none";
+        userDiv.classList.toggle("bg-color", !isShareVisible);
+    }
+  }
+  
+  btnToggle.addEventListener("click", toggleShare);
+  btnClose.addEventListener("click", toggleShare);
