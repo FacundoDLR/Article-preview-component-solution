@@ -5,7 +5,7 @@ Hi stranger, thanks for checking out my solution for this front-end coding chall
 
 This is my solution to [the Article preview component](https://www.frontendmentor.io/solutions/article-preview-component-html-css-js-qsXr1bLaQK).
 
-![Design preview for the Article preview component coding challenge](https://article-preview-component-pi-seven.vercel.app/preview.jpg)
+![Design preview for the Article preview component coding challenge](https://article-preview-component-pi-seven.vercel.app/design/desktop-preview.jpg)
 
 ## 📝 Table of contents
 
