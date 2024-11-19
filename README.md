@@ -1,11 +1,11 @@
 # Frontend Mentor - Article preview component solution
 ## Welcome! 👋
 
-Hi stranger, <!-- thanks for checking out my --> sorry but I´m still working on the solution for this front-end coding challenge. In a few days a will publish it.
+Hi stranger, thanks for checking out my solution for this front-end coding challenge.
 
-<!-- This is my solution to the [Meet landing page](https://www.frontendmentor.io/solutions/meet-landing-page-791w1gx-zr). -->
+This is my solution to [the Article preview component](https://www.frontendmentor.io/solutions/article-preview-component-html-css-js-qsXr1bLaQK).
 
-<!-- ![Design preview for the Meet landing page coding challenge](https://meet-landing-page-nu.vercel.app/preview.jpg)
+![Design preview for the Article preview component coding challenge](https://article-preview-component-pi-seven.vercel.app/preview.jpg)
 
 ## 📝 Table of contents
 
@@ -21,31 +21,30 @@ Hi stranger, <!-- thanks for checking out my --> sorry but I´m still working on
 
 ### The challenge
 
-This challenge is to build out this landing page and get it looking as close to the design as possible.
+This challenge is to build out this article preview component and get it looking as close to the design as possible.
 
-The users should be able to:
+Your users should be able to:
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+- See the social media share links when they click the share icon
+- View the optimal layout for each page depending on their device's screen size
+- See hover states for all interactive elements on the page
 
 ### 📸 Screenshot
 
 **PC Screenshot (1440x900)**
 
-<img src="https://meet-landing-page-nu.vercel.app/assets/screenshots/MacBook Pro-1731799193145.jpeg" width="1280" height="auto">
-
-**Tablet Screenshot (768x1024)**
-
-<img src="https://meet-landing-page-nu.vercel.app/assets/screenshots/iPad-1731799205170.jpeg" width="720" height="auto">
+<img src="https://article-preview-component-pi-seven.vercel.app/assets/screenshots/MacBook Pro-1732040067777.jpeg" width="1280" height="auto">
+<img src="https://article-preview-component-pi-seven.vercel.app/assets/screenshots/MacBook Pro-1732040076647.jpeg" width="1280" height="auto">
 
 **Mobile Screenshot (375x667)**
 
-<img src="https://meet-landing-page-nu.vercel.app/assets/screenshots/iPhone 6-7-8-1731799170731.jpeg" width="400" height="auto">
+<img src="https://article-preview-component-pi-seven.vercel.app/assets/screenshots/iPhone 6-7-8-1732040092618.jpeg" width="400" height="auto">
+<img src="https://article-preview-component-pi-seven.vercel.app/assets/screenshots/iPhone 6-7-8-1732040087516.jpeg" width="400" height="auto">
 
 ### 📎 Links
 
-- View code URL: [Github Repo](https://github.com/FacundoDLR/Meet-landing-page.git)
-- Live Site URL: [Live Demo](https://meet-landing-page-nu.vercel.app/)
+- View code URL: [Github Repo](https://github.com/FacundoDLR/)
+- Live Site URL: [Live Demo](https://article-preview-component-pi-seven.vercel.app/)
 
 ## My process
 
@@ -54,14 +53,11 @@ The users should be able to:
 - HTML 🧱
 - Advanced CSS (Pseudo classes/elements & combinators)🎨
 - Flexbox ⚒️
-- Grid ⚒️
-- Responsive Design
 - SEO 🌍
 - Mobile First 📱
-- NEW media query ranges syntax
-- Conventional commits (git) 📜 -->
+- Conventional commits (git) 📜
 
 ## 🤩 Author
 
 - GitHub - [FacundoDLR](https://github.com/FacundoDLR)
-- Frontend Mentor - [@FacundoDLR](https://www.frontendmentor.io/profile/FacundoDLR) #Meet-landing-page# Article-preview-component-solution
+- Frontend Mentor - [@FacundoDLR](https://www.frontendmentor.io/profile/FacundoDLR) 
